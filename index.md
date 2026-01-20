@@ -3,7 +3,7 @@ layout: default
 title: 首页
 ---
 
-# 欢迎来到 YourNPC 的数字花园 🌿
+## 站在人这边 拒绝抽象病
 
 这里是我思考和记录的地方。
 
